@@ -22,3 +22,6 @@ export const searchArticles = async (query) => {
   });
   return response.data.articles;
 };
+
+
+npm install jsonwebtoken bcryptjs
